@@ -11,13 +11,13 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-              <a class="nav-link text-white" href="http://localhost:3002/">Beranda</a>
+              <a class="nav-link text-white" href="https://smkn4tasikmalaya.vercel.app/">Beranda</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-white" href="#">Profil Sekolah</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-white" href="http://localhost:3002/Ekstrakulikuler">Ekstrakulikuler</a>
+              <a class="nav-link text-white" href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler">Ekstrakulikuler</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-white" href="#">Galery</a>
