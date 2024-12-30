@@ -1,5 +1,5 @@
 <template>
-    <div class="container bg-secondary">
+    <div class="container-fluid bg-secondary">
 <div class="row py-3 font">
         <div class="col">
           <h4 class="text-white text-center">Galery</h4>
