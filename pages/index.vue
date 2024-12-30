@@ -63,7 +63,7 @@
     </div>
     <div>
       <button type="button" class="btn btn-link">
-        <a href="http://localhost:3000/Galery">Lihat selengkapnya</a>
+        <a href="https://smkn4tasikmalaya.vercel.app/Galery">Lihat selengkapnya</a>
       </button>
     </div>
 </template>
