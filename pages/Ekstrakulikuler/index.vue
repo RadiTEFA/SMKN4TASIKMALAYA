@@ -198,7 +198,7 @@
 </template>
 
 <style setup>
-@import url('https://fonts.googleapis.com/css2?family=Tinos&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
 
 .img-organisasi-eskul {
     filter: brightness(90%) contrast(100%); /* Sesuaikan nilai */
