@@ -3,7 +3,7 @@
     <div class="content container my-3">
       <div class="row py-3 font">
         <div class="col">
-          <h4 class="text-white text-center">Paskibra</h4>
+          <h4 class="text-white text-center">Patroli Keamanan Sekolah</h4>
         </div>
       </div>
       <div class="accordion" id="accordionPanelsStayOpenExample">
