@@ -20,7 +20,7 @@
               <a class="nav-link text-white" href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler">Ekstrakulikuler</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-white" href="#">Galery</a>
+              <a class="nav-link text-white" href="https://smkn4tasikmalaya.vercel.app/Galery">Galery</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-white" href="#">Contact</a>
