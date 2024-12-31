@@ -25,6 +25,13 @@
 
 .bg {
   background-color: #EAE7DD;
+  display: flex;
+  flex-direction: column;
+  min-height: 87.7vh;
+}
+
+.container-fluid {
+  flex: 1;
 }
 
 .bg .font p {
