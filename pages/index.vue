@@ -1,4 +1,5 @@
 <template>
+  <img src="/gambar/FotoBersamaGuruGuru.jpg" class="img-fluid">
   <div class="container-fluid bgSambutan">
     <div class="font text-center">
       <p>Sambutan Kepala Sekolah</p>
