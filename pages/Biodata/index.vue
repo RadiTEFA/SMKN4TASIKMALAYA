@@ -23,6 +23,10 @@
 
 .bgSambutan {
   background-color: #EAE7DD;
+  display: flex;
+  flex-direction: column;
+  min-height: 87.7vh;
+  flex: 1;
 }
 
 .bgSambutan .font p {
@@ -38,4 +42,6 @@
   font-weight: 400;
   font-style: italic;
 }
+
+
 </style>
