@@ -4,10 +4,11 @@
         <div class="font text-center">
             <p>Berita</p>
         </div>
-        <div class="row">
-            <div class="col-md-8">
+            <div class="row">
+                <div class="col-md-8">
                 <div class="list-group">
-                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgIndexBerita">
+                    <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">An active item</li>
+                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgIndexBerita shadow p-3 mb-4">
                         <div class="row">
                             <div class="col-1">
                                 <img src="/gambar/LogoLulus.jpg" alt="" style="height: 6vh;" class="mx-auto d-block">
@@ -25,7 +26,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgIndexBerita">
+                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgIndexBerita shadow p-3 mb-4">
                         <div class="row">
                             <div class="col-1">
                                 <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 5vh;" class="mx-auto d-block">
@@ -43,7 +44,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgIndexBerita">
+                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgIndexBerita shadow p-3 mb-4">
                         <div class="row">
                             <div class="col-1">
                                 <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 5vh;" class="mx-auto d-block">
@@ -65,7 +66,8 @@
             </div>
             <div class="col-md-4">
                 <div class="list-group">
-                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan">
+                    <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">An active item</li>
+                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan shadow p-3 mb-4">
                         <div class="row">
                             <div class="col-1">
                                 <img src="/gambar/LogoLulus.jpg" alt="" style="height: 5vh;" class="mx-auto d-block">
@@ -83,7 +85,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan">
+                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan shadow p-3 mb-4">
                         <div class="row">
                             <div class="col-1">
                                 <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 4vh;" class="mx-auto d-block">
@@ -101,7 +103,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan">
+                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan shadow p-3 mb-4">
                         <div class="row">
                             <div class="col-1">
                                 <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 4vh;" class="mx-auto d-block">
@@ -122,7 +124,7 @@
                 </div>
             </div>
         </div>
-    </div>
+        </div>
 </template>
 
 <style scoped>
@@ -157,4 +159,7 @@
     color: #FF0000;
 }
 
+.bgAtasBerita {
+  background-color: #99775C;
+}
 </style>
