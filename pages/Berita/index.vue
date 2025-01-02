@@ -74,7 +74,7 @@
                             </div>
                             <div class="col-6">
                                 <div class="d-flex w-100 justify-content-between">
-                                    <h6 class="mb-1">Pengumuman Kelulusan Siswa Tahun Pelajaran 2023/2024</h6>
+                                    <h6 class="mb-1">Pengumuman Kelulusan Siswa Tahun Pelajaran 2021/2022</h6>
                                 </div>
                                 <div>
                                     <small class="text-muted">SMK Negeri 4 Tasikmlaya</small>
@@ -92,14 +92,14 @@
                             </div>
                             <div class="col-6">
                                 <div class="d-flex w-100 justify-content-between">
-                                    <h6 class="mb-1">Hasil Seleksi PPDB Tahap 2 Tahun 2020</h6>
+                                    <h6 class="mb-1">Daftar Ulang PPDB SMK Negeri 4 Tasikmalaya Tahap 1 Tahun 2020</h6>
                                 </div>
                                 <div>
-                                    <small class="text-muted">Taufik Hidayat</small>
+                                    <small class="text-muted">Muhammad Hilmi Ahadiat</small>
                                 </div>
                             </div>
                             <div class="col-5">
-                                <small class="text-muted float-end">08-07-2020</small>
+                                <small class="text-muted float-end">23-06-2020</small>
                             </div>
                         </div>
                     </a>
@@ -110,14 +110,32 @@
                             </div>
                             <div class="col-6">
                                 <div class="d-flex w-100 justify-content-between">
-                                    <h6 class="mb-1">Daftar Ulang PPDB SMK Negeri 4 Tasikmalaya Tahap 1 Tahun 2020</h6>
+                                    <h6 class="mb-1">Penerimaan Peserta Didik Baru 2020</h6>
                                 </div>
                                 <div>
-                                    <small class="text-muted">Muhammad Hilmi Ahadiat</small>
+                                    <small class="text-muted">Aceng Saripudin</small>
                                 </div>
                             </div>
                             <div class="col-5">
-                                <small class="text-muted float-end">23-06-2024</small>
+                                <small class="text-muted float-end">02-03-2020</small>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan shadow p-3 mb-4">
+                        <div class="row">
+                            <div class="col-1">
+                                <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 4vh;" class="mx-auto d-block">
+                            </div>
+                            <div class="col-6">
+                                <div class="d-flex w-100 justify-content-between">
+                                    <h6 class="mb-1">Kunjungan Industri Kelas XI Tahun 2020</h6>
+                                </div>
+                                <div>
+                                    <small class="text-muted">SMK Negeri 4 Tasikmalaya</small>
+                                </div>
+                            </div>
+                            <div class="col-5">
+                                <small class="text-muted float-end">19-02-2020</small>
                             </div>
                         </div>
                     </a>
