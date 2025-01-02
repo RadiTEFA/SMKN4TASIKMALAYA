@@ -22,6 +22,9 @@
             <li class="nav-item">
               <a class="nav-link" href="https://smkn4tasikmalaya.vercel.app/Galery">Galery</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://smkn4tasikmalaya.vercel.app/Biodata/">Biodata</a>
+            </li>
           </ul>
         </div>
       </div>
