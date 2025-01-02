@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-md-8">
                 <div class="list-group">
-                    <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">An active item</li>
+                    <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">Index <b>Berita</b></li>
                     <a href="#" class="list-group-item list-group-item-action rounded-0 bgIndexBerita shadow p-3 mb-4">
                         <div class="row">
                             <div class="col-1">
@@ -66,7 +66,7 @@
             </div>
             <div class="col-md-4">
                 <div class="list-group">
-                    <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">An active item</li>
+                    <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true"><b>Berita</b> Pilihan</li>
                     <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan shadow p-3 mb-4">
                         <div class="row">
                             <div class="col-1">
