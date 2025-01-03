@@ -33,7 +33,7 @@
             </div>
         </div>
         <div class="Font-Ekstrakulikuler text-center">
-            <p>Ekstrakulikuler</p>
+            <p>Ekstrakurikuler</p>
         </div>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 row-cols-xxl-6 g-3">
             <div class="col">
@@ -42,7 +42,7 @@
                     <div class="card-body">
                         <p>PASKIBRA</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/Paskibra" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/Paskibra" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -51,7 +51,7 @@
                     <div class="card-body">
                         <p>ENGLISH CLUB</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/EnglishClub" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/EnglishClub" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -60,7 +60,7 @@
                     <div class="card-body">
                         <p>PERISAI DIRI</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/PerisaiDiri" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/PerisaiDiri" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -69,7 +69,7 @@
                     <div class="card-body">
                         <p>PATROLI KEAMANAN SEKOLAH</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/PatroliKeamananSekolah" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/PatroliKeamananSekolah" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -78,7 +78,7 @@
                     <div class="card-body">
                         <p>PRAMUKA</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/Pramuka" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/Pramuka" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -87,7 +87,7 @@
                     <div class="card-body">
                         <p>PALANG MERAH REMAJA</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/PalangMerahRemaja" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/PalangMerahRemaja" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -96,7 +96,7 @@
                     <div class="card-body">
                         <p>BULU TANGKIS</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/BuluTangkis" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/BuluTangkis" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -105,7 +105,7 @@
                     <div class="card-body">
                         <p>FUTSAL</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/Futsal" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/Futsal" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -114,7 +114,7 @@
                     <div class="card-body">
                         <p>IT CLUB</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/ITClub" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/ITClub" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -123,7 +123,7 @@
                     <div class="card-body">
                         <p>PECINTA LINGKUNGAN HIDUP</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/PecintaLingkunganHidup" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/PecintaLingkunganHidup" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -132,7 +132,7 @@
                     <div class="card-body">
                         <p>SENI</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/Seni" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/Seni" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -141,7 +141,7 @@
                     <div class="card-body">
                         <p>VOLI</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/Voli" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/Voli" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -150,7 +150,7 @@
                     <div class="card-body">
                         <p>LASKAR PUSTAKA</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/LaskarPustaka" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/LaskarPustaka" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -159,7 +159,7 @@
                     <div class="card-body">
                         <p>BASKET</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/Basket" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/Basket" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -168,7 +168,7 @@
                     <div class="card-body">
                         <p>CINEMATOGRAPHY</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/Cinematography" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/Cinematography" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -177,7 +177,7 @@
                     <div class="card-body">
                         <p>IKATAN REMAJA MASJID</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/IkatanRemajaMasjid" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/IkatanRemajaMasjid" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -186,7 +186,7 @@
                     <div class="card-body">
                         <p>SEPAK BOLA</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/SepakBola" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/SepakBola" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
         </div>
