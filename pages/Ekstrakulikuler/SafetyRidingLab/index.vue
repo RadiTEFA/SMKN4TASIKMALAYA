@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid bg pb-5">
     <div class="container mt-5">
-      <h1 class="text-center mb-4 JudulSepakbola">Safety Riding</h1>
+      <h1 class="text-center mb-4 JudulSepakbola">Safety Riding Lab</h1>
       <div class="accordion" id="accordionExample">
         <!-- Pembina Ekstrakurikuler -->
         <div class="accordion-item border">
@@ -14,14 +14,14 @@
           <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <h5 class="text-center">Pembina Ekstrakurikuler Safety Riding</h5>
+              <h5 class="text-center">Pembina Ekstrakurikuler Safety Riding Lab</h5>
               <div class="accordion-body">
                 <div class="text-center Pembina">
                   <img src="/gambar/Kurniawan.png" class="rounded" alt="...">
                 </div>
               </div>
-              <p>Ekstrakurikuler Safety Riding dibimbing oleh pembina yang berpengalaman dan profesional untuk mendukung
-                perkembangan kemampuan siswa dalam olahraga Safety Riding.</p>
+              <p>Ekstrakurikuler Safety Riding Lab dibimbing oleh pembina yang berpengalaman dan profesional untuk mendukung
+                perkembangan kemampuan siswa dalam olahraga Safety Riding Lab.</p>
               <ul class="list-group">
                 <li class="list-group-item">
                   <div class="isipembina">
@@ -41,18 +41,18 @@
                   <div class="isipembina">
                     <div class="label fw-bold text-start">Pengalaman</div>
                     <div class="separator">:</div>
-                    <div>10 tahun melatih tim Safety Riding sekolah</div>
+                    <div>10 tahun melatih tim Safety Riding Lab sekolah</div>
                   </div>
                 </li>
                 <li class="list-group-item">
                   <div class="isipembina">
                     <div class="label fw-bold text-start">Prestasi</div>
                     <div class="separator">:</div>
-                    <div>Membawa tim sekolah menjadi Juara 1 Turnamen Safety Riding Pelajar Tasikmalaya 2023</div>
+                    <div>Membawa tim sekolah menjadi Juara 1 Turnamen Safety Riding Lab Pelajar Tasikmalaya 2023</div>
                   </div>
                 </li>
               </ul>
-              <p class="mt-3">Dengan dukungan pembina yang berdedikasi, ekstrakurikuler Safety Riding menjadi salah satu kegiatan
+              <p class="mt-3">Dengan dukungan pembina yang berdedikasi, ekstrakurikuler Safety Riding Lab menjadi salah satu kegiatan
                 unggulan di sekolah.</p>
             </div>
           </div>
@@ -69,7 +69,7 @@
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <h5 class="text-center">Daftar Anggota Ekstrakurikuler Safety Riding</h5>
+              <h5 class="text-center">Daftar Anggota Ekstrakurikuler Safety Riding Lab</h5>
               <ul class="list-group">
                 <li class="list-group-item">1. Muhammad Rizky</li>
                 <li class="list-group-item">2. Ahmad Fadli</li>
@@ -95,7 +95,7 @@
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <h5 class="text-center">Daftar Prestasi Ekstrakurikuler Safety Riding</h5>
+              <h5 class="text-center">Daftar Prestasi Ekstrakurikuler Safety Riding Lab</h5>
               <ol class="list-group list-group-numbered">
                 <li class="list-group-item">Juara 1 Turnamen Antar-Sekolah se-Tasikmalaya (2023)</li>
                 <li class="list-group-item">Juara 2 Liga Pelajar Nasional Wilayah Jawa Barat (2022)</li>
@@ -118,13 +118,13 @@
           <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
             data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <h5 class="text-center">Galery Kegiatan Ekstrakurikuler Safety Riding</h5>
+              <h5 class="text-center">Galery Kegiatan Ekstrakurikuler Safety Riding Lab</h5>
               <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                 <div class="col">
                   <div class="card">
                     <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Kegiatan 1">
                     <div class="card-body">
-                      <p class="card-text">Latihan Rutin Tim Safety Riding</p>
+                      <p class="card-text">Latihan Rutin Tim Safety Riding Lab</p>
                     </div>
                   </div>
                 </div>
