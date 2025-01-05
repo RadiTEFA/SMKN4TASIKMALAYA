@@ -4,21 +4,21 @@
         <div class="font text-center">
             <p>Berita</p>
         </div>
-            <div class="row">
-                <div class="col-md-8">
+            <div class="row row-cols-md-1 row-cols-lg-1 row-cols-xl-2 row-cols-xxl-2">
+                <div class="col col-xl-6 col-xxl-7">
                 <div class="list-group">
                     <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">Index <b>Berita</b></li>
                     <a href="#" class="list-group-item list-group-item-action rounded-0 bgIndexBerita shadow p-3 mb-4">
                         <div class="row">
-                            <div class="col-1">
-                                <img src="/gambar/LogoLulus.jpg" alt="" style="height: 6vh;" class="mx-auto d-block">
+                            <div class="col-1 GambarPengumumanIndex">
+                                <img src="/gambar/LogoLulus.jpg" alt="" class="mx-auto d-block">
                             </div>
                             <div class="col-6">
-                                <div class="d-flex w-100 justify-content-between">
-                                    <h5 class="mb-1">Pengumuman Kelulusan Siswa Tahun Pelajaran 2023/2024</h5>
+                                <div class="d-flex justify-content-between PengumumanIndex">
+                                    <p class="mb-1">Pengumuman Kelulusan Siswa Tahun Pelajaran 2023/2024</p>
                                 </div>
                                 <div>
-                                    <small class="text-muted">SMK Negeri 4 Tasikmlaya</small>
+                                    <small class="text-muted">SMK Negeri 4 Tasikmalaya</small>
                                 </div>
                             </div>
                             <div class="col-5">
@@ -32,8 +32,8 @@
                                 <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 5vh;" class="mx-auto d-block">
                             </div>
                             <div class="col-6">
-                                <div class="d-flex w-100 justify-content-between">
-                                    <h5 class="mb-1">Hasil Seleksi PPDB Tahap 2 Tahun 2020</h5>
+                                <div class="d-flex justify-content-between PengumumanIndex">
+                                    <p class="mb-1">Hasil Seleksi PPDB Tahap 2 Tahun 2020</p>
                                 </div>
                                 <div>
                                     <small class="text-muted">Taufik Hidayat</small>
@@ -50,8 +50,8 @@
                                 <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 5vh;" class="mx-auto d-block">
                             </div>
                             <div class="col-6">
-                                <div class="d-flex w-100 justify-content-between">
-                                    <h5 class="mb-1">Daftar Ulang PPDB SMK Negeri 4 Tasikmalaya Tahap 1 Tahun 2020</h5>
+                                <div class="d-flex justify-content-between PengumumanIndex">
+                                    <p class="mb-1">Daftar Ulang PPDB SMK Negeri 4 Tasikmalaya Tahap 1 Tahun 2020</p>
                                 </div>
                                 <div>
                                     <small class="text-muted">Muhammad Hilmi Ahadiat</small>
@@ -64,20 +64,20 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col col-xl-6 col-xxl-5">
                 <div class="list-group">
                     <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true"><b>Berita</b> Pilihan</li>
                     <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan shadow p-3 mb-4">
                         <div class="row">
-                            <div class="col-1">
-                                <img src="/gambar/LogoLulus.jpg" alt="" style="height: 5vh;" class="mx-auto d-block">
+                            <div class="col-1 GambarPengumumanPilihan">
+                                <img src="/gambar/LogoLulus.jpg" alt="" class="mx-auto d-block">
                             </div>
                             <div class="col-6">
-                                <div class="d-flex w-100 justify-content-between">
-                                    <h6 class="mb-1">Pengumuman Kelulusan Siswa Tahun Pelajaran 2021/2022</h6>
+                                <div class="d-flex justify-content-between PengumumanPilihan">
+                                    <p class="mb-1">Pengumuman Kelulusan Siswa Tahun Pelajaran 2021/2022</p>
                                 </div>
                                 <div>
-                                    <small class="text-muted">SMK Negeri 4 Tasikmlaya</small>
+                                    <small class="text-muted PenulisPengumumanPilihan">SMK Negeri 4 Tasikmalaya</small>
                                 </div>
                             </div>
                             <div class="col-5">
@@ -91,11 +91,11 @@
                                 <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 4vh;" class="mx-auto d-block">
                             </div>
                             <div class="col-6">
-                                <div class="d-flex w-100 justify-content-between">
-                                    <h6 class="mb-1">Daftar Ulang PPDB SMK Negeri 4 Tasikmalaya Tahap 1 Tahun 2020</h6>
+                                <div class="d-flex justify-content-between PengumumanPilihan">
+                                    <p class="mb-1">Daftar Ulang PPDB SMK Negeri 4 Tasikmalaya Tahap 1 Tahun 2020</p>
                                 </div>
                                 <div>
-                                    <small class="text-muted">Muhammad Hilmi Ahadiat</small>
+                                    <small class="text-muted PenulisPengumumanPilihan">Muhammad Hilmi Ahadiat</small>
                                 </div>
                             </div>
                             <div class="col-5">
@@ -109,11 +109,11 @@
                                 <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 4vh;" class="mx-auto d-block">
                             </div>
                             <div class="col-6">
-                                <div class="d-flex w-100 justify-content-between">
-                                    <h6 class="mb-1">Penerimaan Peserta Didik Baru 2020</h6>
+                                <div class="d-flex justify-content-between PengumumanPilihan">
+                                    <p class="mb-1">Penerimaan Peserta Didik Baru 2020</p>
                                 </div>
                                 <div>
-                                    <small class="text-muted">Aceng Saripudin</small>
+                                    <small class="text-muted PenulisPengumumanPilihan">Aceng Saripudin</small>
                                 </div>
                             </div>
                             <div class="col-5">
@@ -127,11 +127,11 @@
                                 <img src="/gambar/PPDBJabar.jpg" alt="" style="height: 4vh;" class="mx-auto d-block">
                             </div>
                             <div class="col-6">
-                                <div class="d-flex w-100 justify-content-between">
-                                    <h6 class="mb-1">Kunjungan Industri Kelas XI Tahun 2020</h6>
+                                <div class="d-flex justify-content-between PengumumanPilihan">
+                                    <p class="mb-1">Kunjungan Industri Kelas XI Tahun 2020</p>
                                 </div>
                                 <div>
-                                    <small class="text-muted">SMK Negeri 4 Tasikmalaya</small>
+                                    <small class="text-muted PenulisPengumumanPilihan">SMK Negeri 4 Tasikmalaya</small>
                                 </div>
                             </div>
                             <div class="col-5">
@@ -161,23 +161,162 @@
 .bgIndexBerita  {
     background-color: #CDCDC0;
 }
-.bgIndexBerita h5  {
+.bgIndexBerita .PengumumanIndex p  {
     color: #00008B;
 }
-.bgIndexBerita h5:hover  {
+.bgIndexBerita .PengumumanIndex p:hover  {
     color: #FF0000;
 }
 .bgBeritaPilihan  {
     background-color: #CDCDC0;
 }
-.bgBeritaPilihan h6  {
+.bgBeritaPilihan .PengumumanPilihan p  {
     color: #00008B;
 }
-.bgBeritaPilihan h6:hover  {
+.bgBeritaPilihan .PengumumanPilihan p:hover  {
     color: #FF0000;
 }
 
 .bgAtasBerita {
   background-color: #99775C;
+}
+
+@media (min-width: 576px) { 
+  .GambarPengumumanIndex img {
+    height: 8vh;
+  }
+  .PengumumanIndex {
+    width: 400px;
+  }
+  .PengumumanIndex p {
+    font-size: 0.8rem;
+  }
+
+  .GambarPengumumanPilihan img {
+    height: 8vh;
+  }
+
+  .PengumumanPilihan {
+    width: 400px;
+  }
+
+  .PengumumanPilihan {
+    font-size: 0.8rem;
+  }
+}
+
+@media (min-width: 768px) { 
+  .GambarPengumumanIndex img {
+    height: 8vh;
+  }
+  .PengumumanIndex {
+    width: 400px;
+  }
+  .PengumumanIndex p {
+    font-size: 0.8rem;
+  }
+
+  .GambarPengumumanPilihan img {
+    height: 8vh;
+  }
+
+  .PengumumanPilihan {
+    width: 400px;
+  }
+
+  .PengumumanPilihan {
+    font-size: 0.8rem;
+  }
+
+}
+@media (min-width: 992px) { 
+  .GambarPengumumanIndex img {
+    height: 7.1vh;
+  }
+  .PengumumanIndex {
+    width: 600px;
+  }
+  .PengumumanIndex p {
+    font-size: 1.10rem;
+  }
+
+  .GambarPengumumanPilihan img {
+    height: 6vh;
+  }
+
+  .PengumumanPilihan {
+    width: 600px;
+    margin-left: 8px;
+  }
+
+  .PenulisPengumumanPilihan {
+    margin-left: 8px;
+    font-size: 0.9rem;
+  }
+
+  .PengumumanPilihan p {
+    font-size: 1.10rem;
+  }
+}
+
+@media (min-width: 1200px) { 
+
+  .GambarPengumumanIndex img {
+    height: 7.1vh;
+  }
+  .PengumumanIndex {
+    width: 510px;
+  }
+  .PengumumanIndex p {
+    font-size: 1rem;
+  }
+
+  .GambarPengumumanPilihan img {
+    height: 6vh;
+  }
+
+  .PengumumanPilihan {
+    width: 400px;
+    margin-left: 10px;
+  }
+
+  .PenulisPengumumanPilihan {
+    margin-left: 10px;
+    font-size: 0.8rem;
+  }
+
+  .PengumumanPilihan p {
+    font-size: 0.85rem;
+  }
+}
+
+@media (min-width: 1400px) { 
+
+  .GambarPengumumanIndex img {
+    height: 8.1vh;
+  }
+  .PengumumanIndex {
+    width: 570px;
+  }
+  .PengumumanIndex p {
+    font-size: 1.2rem;
+  }
+  .GambarPengumumanPilihan img {
+    height: 6vh;
+  }
+
+  .PengumumanPilihan {
+    width: 380px;
+    margin-left: 20px;
+  }
+
+  .PenulisPengumumanPilihan {
+    margin-left: 20px;
+    font-size: 0.8rem;
+  }
+
+  .PengumumanPilihan {
+    font-size: 0.8rem;
+  }
 }
 </style>
