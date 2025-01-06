@@ -366,50 +366,54 @@
 @media (min-width: 992px) {
   .GambarPengumumanIndex img {
     max-height: 4.5vh;
-    min-height: 35px;
+    min-height: 41px;
     height: auto;
     width: auto;
     object-fit: contain;
   }
 
   .PengumumanIndex {
-    width: 510px;
+    width: 330px;
   }
 
   .PengumumanIndex p {
-    font-size: 0.80rem;
-    margin-left: 15px;
+    font-size: 0.77rem;
+    margin-left: 11px;
   }
 
   .PenulisPengumumanIndex {
-    margin-left: 15px;
-    font-size: 0.70rem;
+    margin-left: 11px;
+    font-size: 0.68rem;
   }
 
   .PengumumanIndexDiterbitkan {
-    font-size: 0.70rem;
+    font-size: 0.75rem;
   }
 
   .GambarPengumumanPilihan img {
-    max-height: 5.5vh;
-    min-height: 50px;
+    max-height: 4.5vh;
+    min-height: 41px;
     height: auto;
     width: auto;
     object-fit: contain;
   }
 
   .PengumumanPilihan {
-    width: 510px;
+    width: 330px;
   }
 
   .PengumumanPilihan p {
-    font-size: 0.95rem;
+    font-size: 0.77rem;
     margin-left: 11px;
   }
 
   .PenulisPengumumanPilihan {
-    margin-left: 20px;
-    font-size: 0.80rem;
+    margin-left: 11px;
+    font-size: 0.68rem;
+  }
+
+  .PengumumanPilihanDiterbitkan {
+    font-size: 0.75rem;
   }
 }
 
@@ -462,6 +466,7 @@
     margin-left: 20px;
     font-size: 0.80rem;
   }
+
   .PengumumanPilihanDiterbitkan {
     font-size: 0.75rem;
     padding-top: 1px;
@@ -507,6 +512,7 @@
   .PengumumanPilihan {
     width: 410px;
   }
+
   .PengumumanPilihan {
     font-size: 0.8rem;
   }
@@ -520,6 +526,7 @@
     margin-left: 15px;
     font-size: 0.8rem;
   }
+
   .PengumumanPilihanDiterbitkan {
     font-size: 0.75rem;
     padding-top: 1px;
