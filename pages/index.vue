@@ -397,7 +397,7 @@
 
 @media (min-width: 1200px) {
   .GambarPengumumanIndex img {
-    height: 7.1vh;
+    height: 6vh;
   }
 
   .PengumumanIndex {
@@ -405,7 +405,13 @@
   }
 
   .PengumumanIndex p {
-    font-size: 1rem;
+    font-size: 0.95rem;
+    margin-left: 20px;
+  }
+
+  .PenulisPengumumanIndex {
+    margin-left: 20px;
+    font-size: 0.80rem;
   }
 
   .GambarPengumumanPilihan img {
@@ -413,17 +419,17 @@
   }
 
   .PengumumanPilihan {
-    width: 400px;
-    margin-left: 10px;
-  }
-
-  .PenulisPengumumanPilihan {
-    margin-left: 10px;
-    font-size: 0.8rem;
+    width: 510px;
   }
 
   .PengumumanPilihan p {
-    font-size: 0.85rem;
+    font-size: 0.95rem;
+    margin-left: 11px;
+  }
+
+  .PenulisPengumumanPilihan {
+    margin-left: 20px;
+    font-size: 0.80rem;
   }
 }
 
