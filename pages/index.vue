@@ -436,6 +436,11 @@
     font-size: 0.80rem;
   }
 
+  .PengumumanIndexDiterbitkan {
+    font-size: 0.75rem;
+    padding-top: 1px;
+  }
+
   .GambarPengumumanPilihan img {
     max-height: 5.5vh;
     min-height: 50px;
@@ -450,12 +455,16 @@
 
   .PengumumanPilihan p {
     font-size: 0.95rem;
-    margin-left: 11px;
+    margin-left: 20px;
   }
 
   .PenulisPengumumanPilihan {
     margin-left: 20px;
     font-size: 0.80rem;
+  }
+  .PengumumanPilihanDiterbitkan {
+    font-size: 0.75rem;
+    padding-top: 1px;
   }
 }
 
