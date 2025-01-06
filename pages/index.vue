@@ -279,36 +279,6 @@
 }
 
 @media (max-width: 575.98px) {
-  .GambarPengumumanIndex img {
-    max-height: 4.5vh;
-    min-height: 41px;
-    height: auto;
-    width: auto;
-    object-fit: contain;
-  }
-  .PengumumanIndex {
-    width: 400px;
-  }
-
-  .PengumumanIndex p {
-    font-size: 0.8rem;
-  }
-
-  .GambarPengumumanPilihan img {
-    max-height: 4.5vh;
-    min-height: 41px;
-    height: auto;
-    width: auto;
-    object-fit: contain;
-  }
-
-  .PengumumanPilihan {
-    width: 400px;
-  }
-
-  .PengumumanPilihan p {
-    font-size: 0.8rem;
-  }
   .info-box {
     max-width: 100px;
   }
