@@ -88,8 +88,8 @@
     <div class="judul-Berita text-center justify-content-center">
       <p>Berita</p>
     </div>
-    <div class="row row-cols-md-1 row-cols-lg-1 row-cols-xl-2 row-cols-xxl-2">
-      <div class="col col-xl-6 col-xxl-7">
+    <div class="row row-cols-md-1 row-cols-lg-2 row-cols-xl-2 row-cols-xxl-2">
+      <div class="col col-lg-6 col-xl-6 col-xxl-7">
         <div class="list-group">
           <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">
             Index <b>Berita</b>
@@ -110,13 +110,13 @@
                 </div>
               </div>
               <div class="col-5">
-                <small class="text-muted float-end">06-05-2024</small>
+                <small class="text-muted float-end PengumumanIndexDiterbitkan">06-05-2024</small>
               </div>
             </div>
           </a>
         </div>
       </div>
-      <div class="col col-xl-6 col-xxl-5">
+      <div class="col col col-lg-6 col-xl-6 col-xxl-5">
         <div class="list-group">
           <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">
             <b>Berita</b> Pilihan
@@ -365,48 +365,61 @@
 
 @media (min-width: 992px) {
   .GambarPengumumanIndex img {
-    height: 7.1vh;
+    max-height: 4.5vh;
+    min-height: 35px;
+    height: auto;
+    width: auto;
+    object-fit: contain;
   }
 
   .PengumumanIndex {
-    width: 600px;
+    width: 510px;
   }
 
   .PengumumanIndex p {
-    font-size: 1.1rem;
+    font-size: 0.80rem;
+    margin-left: 15px;
+  }
+
+  .PenulisPengumumanIndex {
+    margin-left: 15px;
+    font-size: 0.70rem;
+  }
+
+  .PengumumanIndexDiterbitkan {
+    font-size: 0.70rem;
   }
 
   .GambarPengumumanPilihan img {
-    height: 6vh;
+    max-height: 5.5vh;
+    min-height: 50px;
+    height: auto;
+    width: auto;
+    object-fit: contain;
   }
 
   .PengumumanPilihan {
-    width: 600px;
-    margin-left: 8px;
-  }
-
-  .PenulisPengumumanPilihan {
-    margin-left: 8px;
-    font-size: 0.9rem;
+    width: 510px;
   }
 
   .PengumumanPilihan p {
-    font-size: 1.1rem;
+    font-size: 0.95rem;
+    margin-left: 11px;
+  }
+
+  .PenulisPengumumanPilihan {
+    margin-left: 20px;
+    font-size: 0.80rem;
   }
 }
 
 @media (min-width: 1200px) {
   .GambarPengumumanIndex img {
     max-height: 5.5vh;
-    /* Tinggi maksimum */
     min-height: 50px;
-    /* Tinggi minimum untuk mencegah mengecil */
     height: auto;
-    /* Tinggi menyesuaikan proporsi */
     width: auto;
-    /* Lebar menyesuaikan proporsi */
     object-fit: contain;
-    /* Menjaga proporsi gambar */
   }
 
   .PengumumanIndex {
@@ -425,15 +438,10 @@
 
   .GambarPengumumanPilihan img {
     max-height: 5.5vh;
-    /* Tinggi maksimum */
     min-height: 50px;
-    /* Tinggi minimum untuk mencegah mengecil */
     height: auto;
-    /* Tinggi menyesuaikan proporsi */
     width: auto;
-    /* Lebar menyesuaikan proporsi */
     object-fit: contain;
-    /* Menjaga proporsi gambar */
   }
 
   .PengumumanPilihan {
