@@ -159,7 +159,7 @@
   background-color: #EAE7DD;
   display: flex;
   flex-direction: column;
-  min-height: 81.6vh;
+  min-height: 87.7vh;
   /* Membuat tinggi minimal 100% dari tinggi layar */
   flex: 1;
   /* Mengisi ruang yang tersedia */
