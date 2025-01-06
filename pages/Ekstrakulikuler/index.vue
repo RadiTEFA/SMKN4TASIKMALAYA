@@ -10,7 +10,7 @@
                     <div class="card-body">
                         <p>MAJLIS PERMUSYAWARATAN KELAS</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/MajlisPermusyawaratanKelas" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/MajlisPermusyawaratanKelas" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -19,7 +19,7 @@
                     <div class="card-body">
                         <p>OSIS</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/OrganisasiSiswaIntraSekolah" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/OrganisasiSiswaIntraSekolah" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
             <div class="col">
@@ -28,7 +28,7 @@
                     <div class="card-body">
                         <p>SAFETY RIDING LAB</p>
                     </div>
-                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler/SafetyRidingLab" class="btn">Lihat Selengkapnya</a>
+                    <a href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler/SafetyRidingLab" class="btn">Lihat Selengkapnya</a>
                 </div>
             </div>
         </div>
