@@ -63,10 +63,7 @@
     <div class="judul-Galery text-center justify-content-center">
       <p>Galery</p>
     </div>
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 row-cols-xxl-5">
-      <div class="col">
-        <img src="/gambar/EC1.jpg" class="img-thumbnail" alt="..." />
-      </div>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 row-cols-lg-4 row-cols-xl-4 row-cols-xxl-4">
       <div class="col">
         <img src="/gambar/EC1.jpg" class="img-thumbnail" alt="..." />
       </div>
