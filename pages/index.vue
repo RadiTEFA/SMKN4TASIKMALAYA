@@ -496,6 +496,7 @@
 
   .PengumumanPilihan p {
     font-size: 0.85rem;
+    margin-left: 20px;
   }
 
   .PenulisPengumumanPilihan {
