@@ -482,6 +482,11 @@
     font-size: 0.95rem;
   }
 
+  .PengumumanIndexDiterbitkan {
+    font-size: 1.05rem;
+    padding-top: 1px;
+  }
+
   .GambarPengumumanPilihan img {
     max-height: 5.5vh;
     min-height: 50px;
