@@ -17,7 +17,7 @@
               <a class="nav-link" href="https://smkn4tasikmalaya.vercel.app/Profile">Profil Sekolah</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://smkn4tasikmalaya.vercel.app/Ekstrakulikuler">Ekstrakulikuler</a>
+              <a class="nav-link" href="https://smkn4tasikmalaya.vercel.app/Ekstrakurikuler">Ekstrakulikuler</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://smkn4tasikmalaya.vercel.app/Galery">Galery</a>
