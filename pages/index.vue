@@ -397,7 +397,16 @@
 
 @media (min-width: 1200px) {
   .GambarPengumumanIndex img {
-    height: 6vh;
+    max-height: 5.5vh;
+    /* Tinggi maksimum */
+    min-height: 50px;
+    /* Tinggi minimum untuk mencegah mengecil */
+    height: auto;
+    /* Tinggi menyesuaikan proporsi */
+    width: auto;
+    /* Lebar menyesuaikan proporsi */
+    object-fit: contain;
+    /* Menjaga proporsi gambar */
   }
 
   .PengumumanIndex {
@@ -415,7 +424,16 @@
   }
 
   .GambarPengumumanPilihan img {
-    height: 6vh;
+    max-height: 5.5vh;
+    /* Tinggi maksimum */
+    min-height: 50px;
+    /* Tinggi minimum untuk mencegah mengecil */
+    height: auto;
+    /* Tinggi menyesuaikan proporsi */
+    width: auto;
+    /* Lebar menyesuaikan proporsi */
+    object-fit: contain;
+    /* Menjaga proporsi gambar */
   }
 
   .PengumumanPilihan {
@@ -435,7 +453,11 @@
 
 @media (min-width: 1400px) {
   .GambarPengumumanIndex img {
-    height: 7vh;
+    max-height: 7vh;
+    min-height: 64px;
+    height: auto;
+    width: auto;
+    object-fit: contain;
   }
 
   .PengumumanIndex {
@@ -453,12 +475,19 @@
   }
 
   .GambarPengumumanPilihan img {
-    height: 6vh;
+    max-height: 6vh;
+    min-height: 54px;
+    height: auto;
+    width: auto;
+    object-fit: contain;
   }
 
   .PengumumanPilihan {
     width: 380px;
-    margin-left: 20px;
+  }
+
+  .PengumumanPilihan p {
+    font-size: 0.85rem;
   }
 
   .PenulisPengumumanPilihan {
