@@ -156,7 +156,7 @@
   background-color: #EAE7DD;
   display: flex;
   flex-direction: column;
-  min-height: 81.6vh;
+  min-height: 85.6vh;
   flex: 1;
 }
 
