@@ -137,7 +137,7 @@
                 </div>
               </div>
               <div class="col-5">
-                <small class="text-muted float-end">06-05-2024</small>
+                <small class="text-muted float-end PengumumanPilihanDiterbitkan">06-05-2024</small>
               </div>
             </div>
           </a>
@@ -483,29 +483,32 @@
   }
 
   .GambarPengumumanPilihan img {
-    max-height: 6vh;
-    min-height: 54px;
+    max-height: 5.5vh;
+    min-height: 50px;
     height: auto;
     width: auto;
     object-fit: contain;
   }
 
   .PengumumanPilihan {
-    width: 380px;
+    width: 410px;
+  }
+  .PengumumanPilihan {
+    font-size: 0.8rem;
   }
 
   .PengumumanPilihan p {
-    font-size: 0.85rem;
-    margin-left: 20px;
+    font-size: 0.95rem;
+    margin-left: 15px;
   }
 
   .PenulisPengumumanPilihan {
-    margin-left: 20px;
+    margin-left: 15px;
     font-size: 0.8rem;
   }
-
-  .PengumumanPilihan {
-    font-size: 0.8rem;
+  .PengumumanPilihanDiterbitkan {
+    font-size: 0.75rem;
+    padding-top: 1px;
   }
 }
 </style>
