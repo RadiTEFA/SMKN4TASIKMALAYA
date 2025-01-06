@@ -32,9 +32,7 @@
     <div class="judul-informasi text-center justify-content-center">
       <p>Informasi</p>
     </div>
-    <div
-      class="row Organisasi row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-4 row-cols-xl-4 row-cols-xxl-4 g-3"
-    >
+    <div class="row Organisasi row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-4 row-cols-xl-4 row-cols-xxl-4 g-3">
       <div class="col">
         <div class="info-box text-center">
           <h2>Siswa</h2>
@@ -65,9 +63,7 @@
     <div class="judul-Galery text-center justify-content-center">
       <p>Galery</p>
     </div>
-    <div
-      class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 row-cols-xxl-5"
-    >
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5 row-cols-xxl-5">
       <div class="col">
         <img src="/gambar/EC1.jpg" class="img-thumbnail" alt="..." />
       </div>
@@ -86,9 +82,7 @@
     </div>
   </div>
   <div class="bgButton pt-3 pb-3">
-    <a href="https://smkn4tasikmalaya.vercel.app/Galery/" class="view-more btn"
-      >Lihat Galery Lainnya</a
-    >
+    <a href="https://smkn4tasikmalaya.vercel.app/Galery/" class="view-more btn">Lihat Galery Lainnya</a>
   </div>
   <div class="container-fluid bgBerita">
     <div class="judul-Berita text-center justify-content-center">
@@ -97,23 +91,13 @@
     <div class="row row-cols-md-1 row-cols-lg-1 row-cols-xl-2 row-cols-xxl-2">
       <div class="col col-xl-6 col-xxl-7">
         <div class="list-group">
-          <li
-            class="list-group-item bgAtasBerita text-white text-center"
-            aria-current="true"
-          >
+          <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">
             Index <b>Berita</b>
           </li>
-          <a
-            href="#"
-            class="list-group-item list-group-item-action rounded-0 bgIndexBerita shadow p-3 mb-4"
-          >
+          <a href="#" class="list-group-item list-group-item-action rounded-0 bgIndexBerita shadow p-3 mb-4">
             <div class="row">
               <div class="col-1 GambarPengumumanIndex">
-                <img
-                  src="/gambar/LogoLulus.jpg"
-                  alt=""
-                  class="mx-auto d-block"
-                />
+                <img src="/gambar/LogoLulus.jpg" alt="" class="mx-auto d-block" />
               </div>
               <div class="col-6">
                 <div class="d-flex justify-content-between PengumumanIndex">
@@ -122,7 +106,7 @@
                   </p>
                 </div>
                 <div>
-                  <small class="text-muted">SMK Negeri 4 Tasikmalaya</small>
+                  <small class="text-muted PenulisPengumumanIndex">SMK Negeri 4 Tasikmalaya</small>
                 </div>
               </div>
               <div class="col-5">
@@ -134,23 +118,13 @@
       </div>
       <div class="col col-xl-6 col-xxl-5">
         <div class="list-group">
-          <li
-            class="list-group-item bgAtasBerita text-white text-center"
-            aria-current="true"
-          >
+          <li class="list-group-item bgAtasBerita text-white text-center" aria-current="true">
             <b>Berita</b> Pilihan
           </li>
-          <a
-            href="#"
-            class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan shadow p-3 mb-4"
-          >
+          <a href="#" class="list-group-item list-group-item-action rounded-0 bgBeritaPilihan shadow p-3 mb-4">
             <div class="row">
               <div class="col-1 GambarPengumumanPilihan">
-                <img
-                  src="/gambar/LogoLulus.jpg"
-                  alt=""
-                  class="mx-auto d-block"
-                />
+                <img src="/gambar/LogoLulus.jpg" alt="" class="mx-auto d-block" />
               </div>
               <div class="col-6">
                 <div class="d-flex justify-content-between PengumumanPilihan">
@@ -159,9 +133,7 @@
                   </p>
                 </div>
                 <div>
-                  <small class="text-muted PenulisPengumumanPilihan"
-                    >SMK Negeri 4 Tasikmalaya</small
-                  >
+                  <small class="text-muted PenulisPengumumanPilihan">SMK Negeri 4 Tasikmalaya</small>
                 </div>
               </div>
               <div class="col-5">
@@ -174,9 +146,7 @@
     </div>
   </div>
   <div class="bgButton pt-3 pb-3">
-    <a href="https://smkn4tasikmalaya.vercel.app/Berita/" class="view-more btn"
-      >Lihat Berita Lainnya</a
-    >
+    <a href="https://smkn4tasikmalaya.vercel.app/Berita/" class="view-more btn">Lihat Berita Lainnya</a>
   </div>
 </template>
 <style scoped>
@@ -205,11 +175,13 @@
 .bgInformasi {
   background-color: #eae7dd;
 }
+
 .bgInformasi .judul-informasi p {
   font-size: 4rem;
   font-weight: bold;
   font-family: "Beau Rivage", serif;
 }
+
 /* Gaya info box */
 .info-box {
   background-color: #fff;
@@ -284,18 +256,23 @@
 .bgIndexBerita {
   background-color: #cdcdc0;
 }
+
 .bgIndexBerita .PengumumanIndex p {
   color: #00008b;
 }
+
 .bgIndexBerita .PengumumanIndex p:hover {
   color: #ff0000;
 }
+
 .bgBeritaPilihan {
   background-color: #cdcdc0;
 }
+
 .bgBeritaPilihan .PengumumanPilihan p {
   color: #00008b;
 }
+
 .bgBeritaPilihan .PengumumanPilihan p:hover {
   color: #ff0000;
 }
@@ -309,21 +286,25 @@
     max-width: 100px;
   }
 }
+
 @media (max-width: 767.98px) {
   .info-box {
     max-width: 500px;
   }
 }
+
 @media (max-width: 991.98px) {
   .info-box {
     max-width: 200px;
   }
 }
+
 @media (max-width: 1199.98px) {
   .info-box {
     max-width: 200px;
   }
 }
+
 @media (max-width: 1399.98px) {
   .info-box {
     max-width: 500px;
@@ -334,9 +315,11 @@
   .GambarPengumumanIndex img {
     height: 8vh;
   }
+
   .PengumumanIndex {
     width: 400px;
   }
+
   .PengumumanIndex p {
     font-size: 0.8rem;
   }
@@ -358,9 +341,11 @@
   .GambarPengumumanIndex img {
     height: 8vh;
   }
+
   .PengumumanIndex {
     width: 400px;
   }
+
   .PengumumanIndex p {
     font-size: 0.8rem;
   }
@@ -377,13 +362,16 @@
     font-size: 0.8rem;
   }
 }
+
 @media (min-width: 992px) {
   .GambarPengumumanIndex img {
     height: 7.1vh;
   }
+
   .PengumumanIndex {
     width: 600px;
   }
+
   .PengumumanIndex p {
     font-size: 1.1rem;
   }
@@ -411,9 +399,11 @@
   .GambarPengumumanIndex img {
     height: 7.1vh;
   }
+
   .PengumumanIndex {
     width: 510px;
   }
+
   .PengumumanIndex p {
     font-size: 1rem;
   }
@@ -439,14 +429,23 @@
 
 @media (min-width: 1400px) {
   .GambarPengumumanIndex img {
-    height: 8.1vh;
+    height: 7vh;
   }
+
   .PengumumanIndex {
     width: 570px;
   }
+
   .PengumumanIndex p {
     font-size: 1.2rem;
+    margin-left: 20px;
   }
+
+  .PenulisPengumumanIndex {
+    margin-left: 20px;
+    font-size: 0.95rem;
+  }
+
   .GambarPengumumanPilihan img {
     height: 6vh;
   }
